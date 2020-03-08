@@ -25,7 +25,7 @@
 ### Vocabulary
 ### Alternative text 
 
-### Components
+## Components
 ### Interface guidelines - Primer
 ### Web
 ### Mobile
