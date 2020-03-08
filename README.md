@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+#Auxiliary
 
-You can use the [editor on GitHub](https://github.com/yasendimov/auxiliary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“As user I want the experience to be comprehensive, easy to navigate, and to be close to 100% efficient at every interaction, so I can feel in control at all times.”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Introduction
+###Principles
+###Design values
+###Example use cases
+##Design
+###Brand
+###Typography
+###Colour
+###Grids
+###Layout
+###Iconography
+###Interaction
+###Motion
+###Data visualisations
 
-### Markdown
+##Content
+###Tone of voice
+###Grammar and mechanics
+###Naming
+###Help documentation
+###Vocabulary
+###Alternative text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Components
+###Interface guidelines - Primer
+###Web
+###Mobile
+###Marketing
+###Print
+##Techniques
+###Introduction
+###Why Figma
+###File organisation
+###Grids
+###Drawing
+###Moving and resizing
+###Fonts
+Export settings
+###Production
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yasendimov/auxiliary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
